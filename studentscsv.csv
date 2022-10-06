@@ -1,4 +1,4 @@
-Student ID,First Name,Last Name,Country,Student Number,Grade,Status,Birthdate,Graduation Year,Age
+Student_ID,First_Name,Last_Name,Country,Student_Number,Grade,Status,Birthdate,Graduation_Year,Age
 13001,Ora,Klein,CA,13001,9,Active,10/3/1999,2019,23
 13002,Beulah,McMillan,ES,13002,10,Active,18/4/1999,2018,23
 13003,Florence,Stark,CA,13003,12,Active,20/5/1999,2016,23
